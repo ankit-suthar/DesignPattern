@@ -1,0 +1,3 @@
+We use inheritance or composition to extend the behavior of an object but this is done at compile time and
+its applicable to all the instances of the class.
+We can’t add any new functionality of remove any existing behavior at runtime – this is when Decorator pattern comes into picture.
