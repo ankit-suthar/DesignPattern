@@ -34,3 +34,7 @@ Visitor Pattern
 2) Helps in reducing total cost of ownership (TCO) of the software product.
 3) It makes our code easy to understand and debug. 
 4) Leads to faster development and new members of team can understand it easily and quickly.
+
+##### **Links should refer:**  
+  
+1) [Link1](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
