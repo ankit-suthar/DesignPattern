@@ -21,14 +21,11 @@ public class Observable implements IObservable {
 	}
 
 	@Override
-	public void notifyMethod() 
-	{	
+	public void notifyMethod() {
 		Iterator<Observer> itr = hs.iterator();
 		
-		while(itr.hasNext())
-		{
+		while(itr.hasNext()) {
 			Observer ob = itr.next();
-			
 			ob.update();
 		}
 	}

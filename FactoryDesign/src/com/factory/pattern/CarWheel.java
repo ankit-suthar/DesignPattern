@@ -4,8 +4,7 @@ public class CarWheel implements Wheel {
 	protected float diameter;
 	protected float width;
 	
-	public CarWheel(float diameter,float width)
-	{
+	public CarWheel(float diameter,float width) {
 		this.diameter=diameter;
 		this.width=width;
 	}
